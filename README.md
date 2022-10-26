@@ -114,7 +114,7 @@ I currently work as a Web Developer at Protecmedia, an international company whi
 
 ### Current Reads:
 
-- 📒 [The Best JavaScript Interview Question I’ve Ever Come Across]([https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d](https://javascript.plainenglish.io/the-best-javascript-question-for-an-interview-f24435471d9c))
+- 📒 [The Best JavaScript Interview Question I’ve Ever Come Across](https://javascript.plainenglish.io/the-best-javascript-question-for-an-interview-f24435471d9c)
 - 📒 [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 
 ### See my Skyline 
