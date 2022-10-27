@@ -12,7 +12,7 @@ I currently work as a Web Developer at Protecmedia, an international company whi
 - 👯 Currently working with a dev team of 3 people and building different projects together.
 - 💬 Ask me about a project collaboration.
 - ✉️ For work opportunities, you can contact me at [mail@eulagonzales.tech](mailto:mail@eulagonzales.tech)
-- 👩‍🏫 I used to be an English Teacher! 
+- 👩‍🏫 Fun fact: I used to be an English Teacher! 
 
 
 <br />
