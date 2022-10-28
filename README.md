@@ -7,7 +7,7 @@ I currently work as a Web Developer at Protecmedia, an international company whi
 
 - 🌎 I'm based in Madrid, Spain
 - 🔭 I’m currently working on Leetcode and taking the [#Javascript30](https://www.javascript30.com) challenge
-- 🌱 I’m currently taking up a Bachelor's Degree in Software Development at Universitat Oberta de Catalunya.
+- 🌱 I’m taking up a Bachelor's Degree in Software Development at Universitat Oberta de Catalunya.
 - ☀️ I'm starting to learn how to contribute to open source projects.
 - 👯 Currently working with a dev team of 3 people and building different projects together.
 - 💬 Ask me about a project collaboration.
