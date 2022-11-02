@@ -3,7 +3,7 @@
 <h2>Front End Web Developer</h2>
 
 <p>I've been learning to code for more than a year now. I am currently focused on front-end development, but I will continue learning full-stack in the future! <br />
-I currently work as a Web Developer at Protecmedia, an international company which since 1979 has focused exclusively on software development and the provision of services for news companies!</p>
+I currently work as a Web Developer at Protecmedia, an international company which since 1979 has focused exclusively on software development and providing services for news companies.</p>
 
 - 🌎 I'm based in Madrid, Spain
 - 🔭 I’m currently working on Leetcode and taking the [#Javascript30](https://www.javascript30.com) challenge
